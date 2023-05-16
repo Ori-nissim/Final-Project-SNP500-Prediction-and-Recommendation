@@ -8,7 +8,7 @@ Each data type was trained as an individual model and we combined the 3 models b
 * fundamentalanalysis - fundamental data (companies annual financial reports)
 * new york times API for articles
 ### Modules and libraries used
-* NLTK - Natural langauge processing for getting the sentiment from the news articles.
+* NLTK - Natural language processing for getting the sentiment from the news articles.
 * Sklearn - Building the machine learning models
 * Matplotlib - Visualizing the data
 * Pandas - Working with data and manipulating it
